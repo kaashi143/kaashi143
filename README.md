@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-3776AB?style=flat-square" alt="Maintained" />
   <img src="https://img.shields.io/badge/Environment-Termux%20%7C%20Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Environment" />
-  <img src="https://img.shields.io/github/followers/kaashi143?label=Followers&style=flat-square&color=222222" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Kaashi143?label=Followers&style=flat-square&color=222222" alt="Followers" />
 </p>
 
 ---
@@ -67,58 +67,15 @@ I specialize in building highly optimized script architectures, micro-server imp
 
 ---
 
-## 📁 Featured Frameworks & Master Projects
+## 🏗️ Core Development Architecture & Strategy
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 MINMINI Framework</h3>
-      <p>A multi-threaded, high-performance social platform bot architecture optimized for fast command parsing and continuous execution.</p>
-      <code>Python</code> <code>Automation</code> <code>Micro-Service</code>
-    </td>
-    <td width="50%">
-      <h3>🎵 Spotify Jukebox (Pro Edition)</h3>
-      <p>Interactive automated stream queue controller designed for Clubhouse and third-party media voice channels with real-time room title updates.</p>
-      <code>APIs</code> <code>Automation</code> <code>State-Management</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Pookkalasham Ledger</h3>
-      <p>A customized, lightweight Flask ledger system crafted to track regional community payments, micro-finances, and automated HTML statements.</p>
-      <code>Flask</code> <code>SQLite</code> <code>Dashboard</code>
-    </td>
-    <td width="50%">
-      <h3>🐚 Termux Deployment Toolkit</h3>
-      <p>A library of specialized setup blueprints and runtime configuration shell scripts built to turn basic mobile nodes into stable Python servers.</p>
-      <code>Bash</code> <code>Server-Config</code> <code>Optimization</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Live System Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=3776AB&text_color=c9d1d9" alt="GitHub Analytics" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=3776AB&fire=ffaa00&title=3776AB&text=c9d1d9" alt="GitHub Commit Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&text_color=c9d1d9" alt="Language Demographics" width="65%" />
-</p>
-
-<!-- RECENT ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0d1117&hide_border=true&color=3776AB" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-<!-- FOOTER QUOTE -->
-<p align="center">
-  <i>"Elegant code is not written by chance; it is architected step by step."</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=6&section=footer&width=100%" alt="Footer Line" />
-</p>
+```mermaid
+graph TD
+    A[Termux Micro-Server] -->|Local Execution| B(Python Core Engine)
+    B -->|API Requests| C[Social Media Platforms]
+    B -->|Data Matrix Engine| D[Flask Local Ledger Dashboard]
+    C -->|Real-Time Callbacks| B
+    style A fill:#111,stroke:#3776AB,stroke-width:2px,color:#fff
+    style B fill:#1f2937,stroke:#3776AB,stroke-width:2px,color:#fff
+    style C fill:#111,stroke:#4EAA25,stroke-width:1px,color:#ccc
+    style D fill:#111,stroke:#f05032,stroke-width:1px,color:#ccc

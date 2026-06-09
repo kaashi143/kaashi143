@@ -1,12 +1,22 @@
-<!-- HEADER BANNER -->
+<!-- PREMIUM HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slime&color=0d1117&secondaryColor=3776AB&height=220&section=header&text=THE%20ARCHITECT&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&stroke=3776AB&strokeWidth=2&height=250&section=header&text=%E2%80%B9%20THE%20ARCHITECT%20%E2%80%BA&fontSize=42&animation=twinkling&fontColor=ffffff&fontAlignY=45" width="100%" alt="The Architect Banner" />
+</p>
+
+<!-- LIVE SYSTEM DIAGNOSTICS -->
+<p align="center">
+  <code><b>System Status:</b> Operational 🟢</code> &nbsp;|&nbsp; 
+  <code><b>Core Engine:</b> Python / Automation Architecture ⚙️</code> &nbsp;|&nbsp; 
+  <code><b>Environment:</b> Headless Termux Node 🐚</code>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </p>
 
 <!-- TITLE AND TYPING EFFECT -->
 <h1 align="center">Hey there, I'm Kaashinadh. 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?On=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Paithan+Coding+Developer;Automation+Specialist;Backend+%26+API+Architect;Termux+Environment+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Paithan+Coding+Developer;Automation+Specialist;Backend+%26+API+Architect;Termux+Environment+Expert" alt="Typing SVG" />
 </p>
 
 <!-- QUICK VISITOR BADGES -->

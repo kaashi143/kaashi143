@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-3776AB?style=flat-square" alt="Maintained" />
   <img src="https://img.shields.io/badge/Environment-Termux%20%7C%20Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Environment" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=222222" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/kaashi143?label=Followers&style=flat-square&color=222222" alt="Followers" />
 </p>
 
 ---

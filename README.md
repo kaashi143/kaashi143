@@ -49,7 +49,7 @@ I specialize in building highly optimized script architectures, micro-server imp
     $ ./status_check.sh --user=Kaashinadh<br>
     -------------------------------------------<br>
     [INFO]  Initializing Dashboard...<br>
-    [TASK]  Active: MINMINI Automation Engine<br>
+    [TASK]  Active: KAASHINADH Automation Engine<br>
     [TASK]  Status: Scaling Ledger Matrices<br>
     [TIME]  Last Sync: 2026-06-12 16:28:00<br>
     -------------------------------------------

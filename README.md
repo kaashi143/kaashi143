@@ -1,6 +1,6 @@
 <!-- PREMIUM HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&stroke=3776AB&strokeWidth=2&height=250&section=header&text=%E2%80%B9%20THE%20ARCHITECT%20%E2%80%BA&fontSize=42&animation=twinkling&fontColor=ffffff&fontAlignY=45" width="100%" alt="The Architect Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&stroke=3776AB&strokeWidth=2&height=250&section=header&text=%E2%80%B9%20THE%20ARCHITECT%20%E2%80%BA&fontSize=42&animation=twinkling&fontColor=ffffff&fontAlignY=45" width="100%" alt="KAASHINADH Banner" />
 </p>
 
 <!-- LIVE SYSTEM DIAGNOSTICS -->
